@@ -179,7 +179,6 @@ iframe{
 .services{
     border: 4mm ridge rgba(211, 220, 50, .6);
     display:grid;
-
     justify-content: space-between;
 }
 .service{
