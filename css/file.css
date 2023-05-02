@@ -1,5 +1,5 @@
 body {
-    background-color: #806c00;
+    background-color: #8f8f8f;
     color: #000000;
     font-family: 'Srbija Sans', cursive;
     margin: 0;
@@ -7,20 +7,20 @@ body {
 }
 
 header {
-    background-color: #000000;
+    background-color: #9e9e9e;
     background-image: url('img/1.webp');
     background-size: cover;
     font-family: 'Tupo Vyaz', cursive;
     color: #000000;
-    -webkit-text-stroke: 1px #c2ae00;
+    -webkit-text-stroke: 1px #ffffff;
     padding: 20px;
     text-align: center;
     width: 100%;
     height: 10%;
 }
 .head23{
-    background-color: #c2ae00;
-    color:rgb(0, 0, 0)f
+    background-color: #adadad;
+    color:#ffffff;
 }
 footer {
     background-color: #020202;
@@ -38,14 +38,14 @@ footer {
     min-height: calc(100vh - 80px);
   }
 nav{
-    background-color:#c2ae00;
+    background-color: #949494;
 }
 nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #c2ae00;
+    background-color: #949494;
     border: 2px solid black;
 }
 
@@ -92,7 +92,7 @@ nav li a:hover {
 }
 
 h2{
-    background-color: #c2ae00;
+    background-color: #8f8f8f;
 }
 .animated{
         opacity: 0; /* начальное значение прозрачности */
@@ -101,7 +101,6 @@ h2{
         animation-fill-mode: forwards; /* сохранять последнее значение анимации после завершения */
         animation-delay: 0.1s; /* задержка запуска анимации */
         animation-fill-mode: forwards;
-        width: 100%;
     }
       
       /* определение анимации */
@@ -141,7 +140,6 @@ img{
   margin-right: 10px; /* добавить небольшой отступ между изображением и текстом */
   margin-left: 10px;
   margin-top: 25px;
-  background-color:#806c00;
 }
 
 a {
@@ -158,17 +156,10 @@ hr{
     color: #000000;
 }
 .ul1{
-    background-color:#c2ae00;
+    background-color: #9e9e9e;
     color: #000000;
 }
 iframe{
     width: 100%;
     height: 100%;
-}
-.q1{
-    font-size:30px;
-}
-.a1{
-    height: 10%;
-    width: 33.3%;
 }
